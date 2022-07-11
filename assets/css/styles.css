@@ -6,7 +6,7 @@
 }
 body {
     width: 100%;
-    height: 100vh;
+    height: 80vh;
     background: #171717;
     display: flex;
     justify-content: center;
@@ -22,6 +22,8 @@ section#section-advice {
     display: flex;
     align-items: center;
     flex-direction: column;
+    height: 200px;
+    justify-content: center;
 }
 button#get-advice {
     background: #444444;

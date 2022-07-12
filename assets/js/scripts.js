@@ -8,4 +8,4 @@ const getBtnAdvice = document.querySelector("#get-advice");
 
 getBtnAdvice.addEventListener("click", getAdvice);
 
-window.document.onload(getAdvice());
+
